@@ -2,6 +2,10 @@
 
 Your contributions are always welcome!
 
+#NEU-START
+Bitte sende eine Email an: "Lieblings_kollege@firma.com"
+#NEU-ENDE
+
 ## Guidelines
 
 * Add one link per Pull Request.
